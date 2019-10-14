@@ -5,6 +5,7 @@ A starting resource for spidering massage parlors in San Diego area which provid
 ## 📖 Mechanism to Spider
 1. Initial URLs to spider were derived from: TBD.
 2. Purpose of spidering is to distribute information to the following organizations: TBD. 
+3. Mechanism is to add new URLs every X days.
 
 ## License
 
